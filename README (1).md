@@ -1,11 +1,11 @@
-### Finanical planing App
+### Financial planning App
 
 
-This App evaluate the user financial health and its broken down into two planning strategies:
+This App evaluates the user's financial health and is broken down into two planning strategies:
 
-Part 1: Create a Financial Planner for Emergencies.The user will be able to visualize their current savings to determine if it is enough to reserves for an emergency fund.
+Part 1: Create a Financial Planner for Emergencies. The user will be able to visualize their current savings to determine if it is enough to reserve for an emergency fund.
 
-Part 2: Create a Financial Planner for Retirement.this tool will forcast the user retirement portfolio in 30 years the tool will use Alpaca API call SDK to get historical SDK to get histprical price data for use in Monte Carlo simulations.
+Part 2: Create a Financial Planner for Retirement. This tool will forecast the user retirement portfolio in 30 years the tool will use Alpaca API call SDK to get historical SDK to get historical price data for use in Monte Carlo simulations.
 
 
 #Built with:
@@ -29,11 +29,11 @@ pip install jupyter
 
 # Usage
 
-This App evaluate the user financial health and its broken down into two planning strategies:
+This App evaluates the user's financial health and is broken down into two planning strategies:
 
-Part 1: Create a Financial Planner for Emergencies.The user will be able to visualize their current savings to determine if it is enough to reserves for an emergency fund.
+Part 1: Create a Financial Planner for Emergencies. The user will be able to visualize their current savings to determine if it is enough to reserve for an emergency fund.
 
-Part 2: Create a Financial Planner for Retirement.this tool will forcast the user retirement portfolio in 30 years the tool will use Alpaca API call SDK to get historical SDK to get histprical price data for use in Monte Carlo simulations.
+Part 2: Create a Financial Planner for Retirement. This tool will forecast the user retirement portfolio in 30 years the tool will use Alpaca API call SDK to get historical SDK to get historical price data for use in Monte Carlo simulations.
 
 ---
 ## Contributors
